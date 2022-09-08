@@ -1,0 +1,620 @@
+{
+    "15": {
+        "name": "PSG.LGD",
+        "tag": "PSG.LGD",
+        "players": [
+            {
+                "account_id": 898754153,
+                "name": "\u8427\u745f",
+                "leagues": [
+                    14417,
+                    14391,
+                    14248
+                ]
+            },
+            {
+                "account_id": 111114687,
+                "name": "y`",
+                "leagues": [
+                    14417,
+                    14391,
+                    14248
+                ]
+            },
+            {
+                "account_id": 157475523,
+                "name": "XinQ",
+                "leagues": [
+                    14417,
+                    14391,
+                    14248
+                ]
+            },
+            {
+                "account_id": 118134220,
+                "name": "Faith_bian",
+                "leagues": [
+                    14417,
+                    14391,
+                    14248
+                ]
+            },
+            {
+                "account_id": 173978074,
+                "name": "NothingToSay",
+                "leagues": [
+                    14417,
+                    14391,
+                    14248
+                ]
+            }
+        ]
+    },
+    "7119388": {
+        "name": "Team Spirit",
+        "tag": "TSpirit",
+        "players": [
+            {
+                "account_id": 302214028,
+                "name": "CoLLapse",
+                "leagues": [
+                    14417,
+                    14391
+                ]
+            },
+            {
+                "account_id": 113331514,
+                "name": "Miposhka",
+                "leagues": [
+                    14417,
+                    14391
+                ]
+            },
+            {
+                "account_id": 431770905,
+                "name": "TORONTOTOKYO",
+                "leagues": [
+                    14417,
+                    14391
+                ]
+            },
+            {
+                "account_id": 321580662,
+                "name": "YATOROGOD",
+                "leagues": [
+                    14417,
+                    14391
+                ]
+            },
+            {
+                "account_id": 256156323,
+                "name": "Mira",
+                "leagues": [
+                    14417,
+                    14391
+                ]
+            }
+        ]
+    },
+    "6209166": {
+        "name": "Team Aster",
+        "tag": "Aster",
+        "players": [
+            {
+                "account_id": 129958758,
+                "name": "Xxs",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14248
+                ]
+            },
+            {
+                "account_id": 207829314,
+                "name": "BoBoKa",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14248
+                ]
+            },
+            {
+                "account_id": 148215639,
+                "name": "Monet",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14248
+                ]
+            },
+            {
+                "account_id": 183378746,
+                "name": "\u76ae\u7403",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14248
+                ]
+            },
+            {
+                "account_id": 107803494,
+                "name": "Ori",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14248
+                ]
+            }
+        ]
+    },
+    "2586976": {
+        "name": "OG",
+        "tag": "OG",
+        "players": [
+            {
+                "account_id": 93618577,
+                "name": "bzm",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14279
+                ]
+            },
+            {
+                "account_id": 183719386,
+                "name": "AMMAR_THE_F",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14279
+                ]
+            },
+            {
+                "account_id": 401792574,
+                "name": "Taiga",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14279
+                ]
+            },
+            {
+                "account_id": 167976729,
+                "name": "Yuragi",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14279
+                ]
+            },
+            {
+                "account_id": 90125566,
+                "name": "Misha",
+                "leagues": [
+                    14391,
+                    14279
+                ]
+            }
+        ]
+    },
+    "8254400": {
+        "name": "beastcoast",
+        "tag": "bc",
+        "players": [
+            {
+                "account_id": 157989498,
+                "name": "G\u014djira",
+                "leagues": [
+                    14417,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 292921272,
+                "name": "Wisper ",
+                "leagues": [
+                    14417,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 153836240,
+                "name": "C. smile  <",
+                "leagues": [
+                    14417,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 119631156,
+                "name": "XstiNgerX",
+                "leagues": [
+                    14417,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 164685175,
+                "name": "K1",
+                "leagues": [
+                    14417,
+                    14389,
+                    14299
+                ]
+            }
+        ]
+    },
+    "8260983": {
+        "name": "TSM FTX",
+        "tag": "TSM FTX",
+        "players": [
+            {
+                "account_id": 145550466,
+                "name": "DuBu",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14389,
+                    14281
+                ]
+            },
+            {
+                "account_id": 238239590,
+                "name": "Bryle",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14389,
+                    14281
+                ]
+            },
+            {
+                "account_id": 97658618,
+                "name": "Timado",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14389,
+                    14281
+                ]
+            },
+            {
+                "account_id": 38628747,
+                "name": "MoonMeander",
+                "leagues": [
+                    14388,
+                    14391,
+                    14389,
+                    14281
+                ]
+            },
+            {
+                "account_id": 126212866,
+                "name": "SabeRLighT-",
+                "leagues": [
+                    14417,
+                    14388,
+                    14391,
+                    14389,
+                    14281
+                ]
+            }
+        ]
+    },
+    "350190": {
+        "name": "Fnatic",
+        "tag": "Fnatic",
+        "players": [
+            {
+                "account_id": 102099826,
+                "name": "DJ",
+                "leagues": [
+                    14417,
+                    14388,
+                    14270
+                ]
+            },
+            {
+                "account_id": 100471531,
+                "name": "J",
+                "leagues": [
+                    14417,
+                    14388,
+                    14270
+                ]
+            },
+            {
+                "account_id": 132309493,
+                "name": "Raven",
+                "leagues": [
+                    14270
+                ]
+            },
+            {
+                "account_id": 148526973,
+                "name": "Jaunuel",
+                "leagues": [
+                    14388,
+                    14270
+                ]
+            },
+            {
+                "account_id": 164532005,
+                "name": "Armel",
+                "leagues": [
+                    14388,
+                    14270
+                ]
+            }
+        ]
+    },
+    "39": {
+        "name": "Evil Geniuses",
+        "tag": "EG",
+        "players": [
+            {
+                "account_id": 86745912,
+                "name": "\u5929\u9e3d",
+                "leagues": [
+                    14417,
+                    14281
+                ]
+            },
+            {
+                "account_id": 25907144,
+                "name": "Cr1t-",
+                "leagues": [
+                    14417,
+                    14281
+                ]
+            },
+            {
+                "account_id": 94155156,
+                "name": "Fly",
+                "leagues": [
+                    14417,
+                    14281
+                ]
+            },
+            {
+                "account_id": 154715080,
+                "name": "Abed",
+                "leagues": [
+                    14417,
+                    14281
+                ]
+            },
+            {
+                "account_id": 124801257,
+                "name": "Nightfall \u51db",
+                "leagues": [
+                    14417,
+                    14281
+                ]
+            }
+        ]
+    },
+    "7732977": {
+        "name": "BOOM Esports",
+        "tag": "BOOM",
+        "players": [
+            {
+                "account_id": 156328257,
+                "name": "Fbz",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14270
+                ]
+            },
+            {
+                "account_id": 324277900,
+                "name": "Yopaj-",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14270
+                ]
+            },
+            {
+                "account_id": 100594231,
+                "name": "skem",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14270
+                ]
+            },
+            {
+                "account_id": 155494381,
+                "name": "TIMS",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14270
+                ]
+            },
+            {
+                "account_id": 392565237,
+                "name": "JACKBOYS",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14270
+                ]
+            }
+        ]
+    },
+    "8291895": {
+        "name": "Tundra Esports",
+        "tag": "Tundra",
+        "players": [
+            {
+                "account_id": 100058342,
+                "name": "skiter",
+                "leagues": [
+                    14417,
+                    14391,
+                    14279
+                ]
+            },
+            {
+                "account_id": 94786276,
+                "name": "Nine",
+                "leagues": [
+                    14417,
+                    14391,
+                    14279
+                ]
+            },
+            {
+                "account_id": 86698277,
+                "name": "33",
+                "leagues": [
+                    14417,
+                    14279
+                ]
+            },
+            {
+                "account_id": 10366616,
+                "name": "Sneyking",
+                "leagues": [
+                    14417,
+                    14391,
+                    14279
+                ]
+            },
+            {
+                "account_id": 103735745,
+                "name": "Saksa",
+                "leagues": [
+                    14417,
+                    14391,
+                    14279
+                ]
+            }
+        ]
+    },
+    "7391077": {
+        "name": "Thunder Awaken",
+        "tag": "THUNDER",
+        "players": [
+            {
+                "account_id": 155332459,
+                "name": "Matthew",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 339235645,
+                "name": "Pakazs",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 117089283,
+                "name": "PandaMoo",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 352545711,
+                "name": "DarkMago\u2665",
+                "leagues": [
+                    14388,
+                    14389,
+                    14299
+                ]
+            },
+            {
+                "account_id": 408729743,
+                "name": "Sacred",
+                "leagues": [
+                    14417,
+                    14388,
+                    14389,
+                    14299
+                ]
+            }
+        ]
+    },
+    "8599101": {
+        "name": "Gaimin Gladiators",
+        "tag": "GG",
+        "players": [
+            {
+                "account_id": 91730177,
+                "name": "Seleri",
+                "leagues": [
+                    14279,
+                    14389
+                ]
+            },
+            {
+                "account_id": 116934015,
+                "name": "dyrachyo",
+                "leagues": [
+                    14279,
+                    14389
+                ]
+            },
+            {
+                "account_id": 190826739,
+                "name": "BOOM",
+                "leagues": [
+                    14279,
+                    14389
+                ]
+            },
+            {
+                "account_id": 97590558,
+                "name": "Ace",
+                "leagues": [
+                    14279,
+                    14389
+                ]
+            },
+            {
+                "account_id": 16497807,
+                "name": "tOfu",
+                "leagues": [
+                    14279,
+                    14389
+                ]
+            }
+        ]
+    }
+}
