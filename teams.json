@@ -1,16 +1,33 @@
 {
     "15": {
         "name": "PSG.LGD",
-        "tag": "PSG.LGD",
         "players": [
             {
                 "account_id": 898754153,
-                "name": "\u8427\u745f",
+                "name": "Ame",
                 "leagues": [
                     14417,
                     14391,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 111114687,
@@ -19,7 +36,25 @@
                     14417,
                     14391,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 157475523,
@@ -28,7 +63,25 @@
                     14417,
                     14391,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 118134220,
@@ -37,7 +90,25 @@
                     14417,
                     14391,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 173978074,
@@ -46,13 +117,30 @@
                     14417,
                     14391,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "7119388": {
         "name": "Team Spirit",
-        "tag": "TSpirit",
         "players": [
             {
                 "account_id": 302214028,
@@ -60,7 +148,25 @@
                 "leagues": [
                     14417,
                     14391
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 113331514,
@@ -68,7 +174,25 @@
                 "leagues": [
                     14417,
                     14391
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 431770905,
@@ -76,7 +200,25 @@
                 "leagues": [
                     14417,
                     14391
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 321580662,
@@ -84,7 +226,25 @@
                 "leagues": [
                     14417,
                     14391
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 256156323,
@@ -92,13 +252,30 @@
                 "leagues": [
                     14417,
                     14391
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "6209166": {
         "name": "Team Aster",
-        "tag": "Aster",
         "players": [
             {
                 "account_id": 129958758,
@@ -108,7 +285,25 @@
                     14388,
                     14389,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 207829314,
@@ -118,7 +313,25 @@
                     14388,
                     14389,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 148215639,
@@ -128,17 +341,53 @@
                     14388,
                     14389,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 183378746,
-                "name": "\u76ae\u7403",
+                "name": "Siamese.C",
                 "leagues": [
                     14417,
                     14388,
                     14389,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 107803494,
@@ -148,13 +397,30 @@
                     14388,
                     14389,
                     14248
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "2586976": {
         "name": "OG",
-        "tag": "OG",
         "players": [
             {
                 "account_id": 93618577,
@@ -164,7 +430,25 @@
                     14388,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 183719386,
@@ -174,7 +458,25 @@
                     14388,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 401792574,
@@ -184,7 +486,25 @@
                     14388,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 167976729,
@@ -194,7 +514,25 @@
                     14388,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 90125566,
@@ -202,13 +540,30 @@
                 "leagues": [
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "8254400": {
         "name": "beastcoast",
-        "tag": "bc",
         "players": [
             {
                 "account_id": 157989498,
@@ -217,7 +572,25 @@
                     14417,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 292921272,
@@ -226,7 +599,25 @@
                     14417,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 153836240,
@@ -235,7 +626,25 @@
                     14417,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 119631156,
@@ -244,7 +653,25 @@
                     14417,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 164685175,
@@ -253,13 +680,30 @@
                     14417,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "8260983": {
         "name": "TSM FTX",
-        "tag": "TSM FTX",
         "players": [
             {
                 "account_id": 145550466,
@@ -270,7 +714,25 @@
                     14391,
                     14389,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 238239590,
@@ -281,7 +743,25 @@
                     14391,
                     14389,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 97658618,
@@ -292,7 +772,25 @@
                     14391,
                     14389,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 38628747,
@@ -302,7 +800,25 @@
                     14391,
                     14389,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 126212866,
@@ -313,13 +829,30 @@
                     14391,
                     14389,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "350190": {
         "name": "Fnatic",
-        "tag": "Fnatic",
         "players": [
             {
                 "account_id": 102099826,
@@ -328,7 +861,25 @@
                     14417,
                     14388,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 100471531,
@@ -337,14 +888,50 @@
                     14417,
                     14388,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 132309493,
                 "name": "Raven",
                 "leagues": [
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 148526973,
@@ -352,7 +939,25 @@
                 "leagues": [
                     14388,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 164532005,
@@ -360,21 +965,56 @@
                 "leagues": [
                     14388,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "39": {
         "name": "Evil Geniuses",
-        "tag": "EG",
         "players": [
             {
                 "account_id": 86745912,
-                "name": "\u5929\u9e3d",
+                "name": "Arteezy",
                 "leagues": [
                     14417,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 25907144,
@@ -382,7 +1022,25 @@
                 "leagues": [
                     14417,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 94155156,
@@ -390,7 +1048,25 @@
                 "leagues": [
                     14417,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 154715080,
@@ -398,21 +1074,56 @@
                 "leagues": [
                     14417,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 124801257,
-                "name": "Nightfall \u51db",
+                "name": "Nightfall",
                 "leagues": [
                     14417,
                     14281
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "7732977": {
         "name": "BOOM Esports",
-        "tag": "BOOM",
         "players": [
             {
                 "account_id": 156328257,
@@ -422,7 +1133,25 @@
                     14388,
                     14389,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 324277900,
@@ -432,7 +1161,25 @@
                     14388,
                     14389,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 100594231,
@@ -442,7 +1189,25 @@
                     14388,
                     14389,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 155494381,
@@ -452,7 +1217,25 @@
                     14388,
                     14389,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 392565237,
@@ -462,13 +1245,30 @@
                     14388,
                     14389,
                     14270
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "8291895": {
         "name": "Tundra Esports",
-        "tag": "Tundra",
         "players": [
             {
                 "account_id": 100058342,
@@ -477,7 +1277,25 @@
                     14417,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 94786276,
@@ -486,7 +1304,25 @@
                     14417,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 86698277,
@@ -494,7 +1330,25 @@
                 "leagues": [
                     14417,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 10366616,
@@ -503,7 +1357,25 @@
                     14417,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 103735745,
@@ -512,13 +1384,30 @@
                     14417,
                     14391,
                     14279
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "7391077": {
         "name": "Thunder Awaken",
-        "tag": "THUNDER",
         "players": [
             {
                 "account_id": 155332459,
@@ -528,7 +1417,25 @@
                     14388,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 339235645,
@@ -538,7 +1445,25 @@
                     14388,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 117089283,
@@ -548,7 +1473,25 @@
                     14388,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 352545711,
@@ -557,7 +1500,25 @@
                     14388,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 408729743,
@@ -567,13 +1528,30 @@
                     14388,
                     14389,
                     14299
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     },
     "8599101": {
         "name": "Gaimin Gladiators",
-        "tag": "GG",
         "players": [
             {
                 "account_id": 91730177,
@@ -581,7 +1559,25 @@
                 "leagues": [
                     14279,
                     14389
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 116934015,
@@ -589,7 +1585,25 @@
                 "leagues": [
                     14279,
                     14389
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 190826739,
@@ -597,7 +1611,25 @@
                 "leagues": [
                     14279,
                     14389
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 97590558,
@@ -605,7 +1637,25 @@
                 "leagues": [
                     14279,
                     14389
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             },
             {
                 "account_id": 16497807,
@@ -613,7 +1663,25 @@
                 "leagues": [
                     14279,
                     14389
-                ]
+                ],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "UNKNOWN"
             }
         ]
     }

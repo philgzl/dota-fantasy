@@ -5,11 +5,11 @@ import random
 import numpy as np
 
 
-class Player:
-    def __init__(self, player_id, player_name):
-        self.id = player_id
-        self.name = player_name
-        self.stats = stats[str(player_id)]
+class Card:
+    def __init__(self, card_id, card_bonuses, base_stats):
+        self.id = card_id
+        self.bonuses = card_bonuses
+        self.stats = base_stats
         self.scores = []
         self._day_scores = []
         self._series_scores = []
@@ -39,6 +39,7 @@ class Player:
             roll = np.random.normal(mean, std)
             if key != "deaths":  # only death score can be negative
                 roll = max(roll, 0)
+            roll *= 1 + (self.bonuses[key]/100)  # apply card bonus
             total += roll
         self._series_scores.append(total)
 
@@ -51,15 +52,37 @@ class Player:
         self._day_scores = []
 
 
-class Team:
-    def __init__(self, team_id, team_name):
-        self.id = team_id
-        self.name = team_name
-        self.players = [
-            Player(player['account_id'], player['name'])
-            for player in teams[team_id]['players']
+class Player:
+    def __init__(self, player_data):
+        self.id = player_data['account_id']
+        self.name = player_data['name']
+        self.role = player_data['role']
+        self.cards = [
+            Card(card_id, card_bonuses, stats_dict[str(self.id)])
+            for card_id, card_bonuses in player_data['cards'].items()
         ]
-        self.rating = ratings[team_id]
+
+    def roll(self, win):
+        for card in self.cards:
+            card.roll(win)
+
+    def flush_series(self, best):
+        for card in self.cards:
+            card.flush_series(best)
+
+    def flush_day(self):
+        for card in self.cards:
+            card.flush_day()
+
+
+class Team:
+    def __init__(self, team_id, team_data):
+        self.id = team_id
+        self.name = team_data['name']
+        self.players = [
+            Player(player_data) for player_data in team_data['players']
+        ]
+        self.rating = ratings_dict[team_id]
 
     def roll(self, win):
         for player in self.players:
@@ -134,13 +157,70 @@ def win_prob(team_a_rating, team_b_rating):
     return q_a/(q_a+q_b)
 
 
+def print_results(team_objs):
+    results = []
+    for team_id, team in team_objs.items():
+        for player in team.players:
+            for card in player.cards:
+                results.append({
+                    'name': player.name,
+                    'team': team.name,
+                    'role': player.role,
+                    'card_id': card.id,
+                    'mean': np.mean(card.scores),
+                    'std': np.std(card.scores),
+                    'ci5': np.percentile(card.scores, 5),
+                    'ci95': np.percentile(card.scores, 95),
+                    'min': np.min(card.scores),
+                    'max': np.max(card.scores),
+                })
+    print(
+        f"{'NAME':<13s}",
+        f"{'TEAM':<18s}",
+        f"{'ROLE':<8s}",
+        f"{'CARD ID':<8s}",
+        f"{'MEAN':<7s}",
+        f"{'STD':<7s}",
+        f"{'5% CI':<7s}",
+        f"{'95% CI':<7s}",
+        f"{'MIN':<7s}",
+        f"{'MAX':<7s}",
+    )
+    print(
+        f"{'-'*12:<13s}",
+        f"{'-'*17:<18s}",
+        f"{'-'*7:<8s}",
+        f"{'-'*7:<8s}",
+        f"{'-'*6:<7s}",
+        f"{'-'*6:<7s}",
+        f"{'-'*6:<7s}",
+        f"{'-'*6:<7s}",
+        f"{'-'*6:<7s}",
+        f"{'-'*6:<7s}",
+    )
+    for result in sorted(results, key=lambda v: v['mean'], reverse=True):
+        print(
+            f"{result['name']:<13s}",
+            f"{result['team']:<18s}",
+            f"{result['role']:<8s}",
+            f"{result['card_id']:<8s}",
+            f"{result['mean']:<7.2f}",
+            f"{result['std']:<7.2f}",
+            f"{result['ci5']:<7.2f}",
+            f"{result['ci95']:<7.2f}",
+            f"{result['min']:<7.2f}",
+            f"{result['max']:<7.2f}",
+        )
+
+
 def main(args):
     # get games from schedule
-    games = schedule[args.day_number]
+    games = schedule_dict[args.day_number]
 
     # init teams
     team_objs = {
-        team_id: Team(team_id, team['name']) for team_id, team in teams.items()
+        team_id: Team(team_id, team_data)
+        for team_id, team_data in teams_dict.items()
     }
 
     # main loop
@@ -158,64 +238,25 @@ def main(args):
             team.flush_day()
 
     # print results
-    results = []
-    for team_id, team in team_objs.items():
-        for player in team.players:
-            results.append({
-                'name': player.name,
-                'mean': np.mean(player.scores),
-                'std': np.std(player.scores),
-                'ci5': np.percentile(player.scores, 5),
-                'ci95': np.percentile(player.scores, 95),
-                'min': np.min(player.scores),
-                'max': np.max(player.scores),
-            })
-    print(
-        f"{'NAME':<14s}",
-        f"{'MEAN':<10s}",
-        f"{'STD':<10s}",
-        f"{'5% CI':<10s}",
-        f"{'95% CI':<10s}",
-        f"{'MIN':<10s}",
-        f"{'MAX':<10s}",
-    )
-    print(
-        f"{'-'*13:<14s}",
-        f"{'-'*9:<10s}",
-        f"{'-'*9:<10s}",
-        f"{'-'*9:<10s}",
-        f"{'-'*9:<10s}",
-        f"{'-'*9:<10s}",
-        f"{'-'*9:<10s}",
-    )
-    for result in sorted(results, key=lambda v: v['mean'], reverse=True):
-        print(
-            f"{result['name']:<14s}",
-            f"{result['mean']:<10.2f}",
-            f"{result['std']:<10.2f}",
-            f"{result['ci5']:<10.2f}",
-            f"{result['ci95']:<10.2f}",
-            f"{result['min']:<10.2f}",
-            f"{result['max']:<10.2f}",
-        )
+    print_results(team_objs)
 
 
 if __name__ == '__main__':
     # load schedule
     with open('schedule.json') as f:
-        schedule = json.load(f)
+        schedule_dict = json.load(f)
 
     # load ratings
     with open('data/ratings.json') as f:
-        ratings = json.load(f)
+        ratings_dict = json.load(f)
 
     # load stats
     with open('data/stats.json') as f:
-        stats = json.load(f)
+        stats_dict = json.load(f)
 
     # load teams
     with open('teams.json') as f:
-        teams = json.load(f)
+        teams_dict = json.load(f)
 
     parser = argparse.ArgumentParser()
     parser.add_argument('day_number')
