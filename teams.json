@@ -5,11 +5,6 @@
             {
                 "account_id": 898754153,
                 "name": "Ame",
-                "leagues": [
-                    14417,
-                    14391,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -27,16 +22,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 111114687,
                 "name": "y`",
-                "leagues": [
-                    14417,
-                    14391,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -54,16 +44,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 157475523,
                 "name": "XinQ",
-                "leagues": [
-                    14417,
-                    14391,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -81,16 +66,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 118134220,
                 "name": "Faith_bian",
-                "leagues": [
-                    14417,
-                    14391,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -108,16 +88,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 173978074,
                 "name": "NothingToSay",
-                "leagues": [
-                    14417,
-                    14391,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -135,7 +110,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -145,10 +120,6 @@
             {
                 "account_id": 302214028,
                 "name": "CoLLapse",
-                "leagues": [
-                    14417,
-                    14391
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -166,15 +137,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 113331514,
                 "name": "Miposhka",
-                "leagues": [
-                    14417,
-                    14391
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -192,15 +159,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 431770905,
                 "name": "TORONTOTOKYO",
-                "leagues": [
-                    14417,
-                    14391
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -218,15 +181,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 321580662,
                 "name": "YATOROGOD",
-                "leagues": [
-                    14417,
-                    14391
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -244,15 +203,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 256156323,
                 "name": "Mira",
-                "leagues": [
-                    14417,
-                    14391
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -270,7 +225,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -280,12 +235,6 @@
             {
                 "account_id": 129958758,
                 "name": "Xxs",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -303,17 +252,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 207829314,
                 "name": "BoBoKa",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -331,17 +274,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 148215639,
                 "name": "Monet",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -359,17 +296,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 183378746,
                 "name": "Siamese.C",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -387,17 +318,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 107803494,
                 "name": "Ori",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14248
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -415,7 +340,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -425,12 +350,6 @@
             {
                 "account_id": 93618577,
                 "name": "bzm",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -448,17 +367,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 183719386,
                 "name": "AMMAR_THE_F",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -476,17 +389,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 401792574,
                 "name": "Taiga",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -504,17 +411,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 167976729,
                 "name": "Yuragi",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -532,15 +433,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 90125566,
                 "name": "Misha",
-                "leagues": [
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -558,7 +455,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -568,11 +465,6 @@
             {
                 "account_id": 157989498,
                 "name": "G\u014djira",
-                "leagues": [
-                    14417,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -590,16 +482,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 292921272,
                 "name": "Wisper ",
-                "leagues": [
-                    14417,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -617,16 +504,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 153836240,
                 "name": "C. smile  <",
-                "leagues": [
-                    14417,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -644,16 +526,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 119631156,
                 "name": "XstiNgerX",
-                "leagues": [
-                    14417,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -671,16 +548,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 164685175,
                 "name": "K1",
-                "leagues": [
-                    14417,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -698,7 +570,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -708,13 +580,6 @@
             {
                 "account_id": 145550466,
                 "name": "DuBu",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14389,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -732,18 +597,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 238239590,
                 "name": "Bryle",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14389,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -761,18 +619,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 97658618,
                 "name": "Timado",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14389,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -790,17 +641,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 38628747,
                 "name": "MoonMeander",
-                "leagues": [
-                    14388,
-                    14391,
-                    14389,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -818,18 +663,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 126212866,
                 "name": "SabeRLighT-",
-                "leagues": [
-                    14417,
-                    14388,
-                    14391,
-                    14389,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -847,7 +685,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -857,11 +695,6 @@
             {
                 "account_id": 102099826,
                 "name": "DJ",
-                "leagues": [
-                    14417,
-                    14388,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -879,16 +712,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 100471531,
                 "name": "J",
-                "leagues": [
-                    14417,
-                    14388,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -906,14 +734,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 132309493,
                 "name": "Raven",
-                "leagues": [
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -931,15 +756,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 148526973,
                 "name": "Jaunuel",
-                "leagues": [
-                    14388,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -957,15 +778,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 164532005,
                 "name": "Armel",
-                "leagues": [
-                    14388,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -983,7 +800,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -993,10 +810,6 @@
             {
                 "account_id": 86745912,
                 "name": "Arteezy",
-                "leagues": [
-                    14417,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1014,15 +827,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 25907144,
                 "name": "Cr1t-",
-                "leagues": [
-                    14417,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1040,15 +849,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 94155156,
                 "name": "Fly",
-                "leagues": [
-                    14417,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1066,15 +871,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 154715080,
                 "name": "Abed",
-                "leagues": [
-                    14417,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1092,15 +893,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 124801257,
                 "name": "Nightfall",
-                "leagues": [
-                    14417,
-                    14281
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1118,7 +915,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -1128,12 +925,6 @@
             {
                 "account_id": 156328257,
                 "name": "Fbz",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1151,17 +942,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 324277900,
                 "name": "Yopaj-",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1179,17 +964,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 100594231,
                 "name": "skem",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1207,17 +986,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 155494381,
                 "name": "TIMS",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1235,17 +1008,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 392565237,
                 "name": "JACKBOYS",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14270
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1263,7 +1030,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -1273,11 +1040,6 @@
             {
                 "account_id": 100058342,
                 "name": "skiter",
-                "leagues": [
-                    14417,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1295,16 +1057,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 94786276,
                 "name": "Nine",
-                "leagues": [
-                    14417,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1322,15 +1079,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 86698277,
                 "name": "33",
-                "leagues": [
-                    14417,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1348,16 +1101,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 10366616,
                 "name": "Sneyking",
-                "leagues": [
-                    14417,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1375,16 +1123,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 103735745,
                 "name": "Saksa",
-                "leagues": [
-                    14417,
-                    14391,
-                    14279
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1402,7 +1145,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -1412,12 +1155,6 @@
             {
                 "account_id": 155332459,
                 "name": "Matthew",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1435,17 +1172,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 339235645,
                 "name": "Pakazs",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1463,17 +1194,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 117089283,
                 "name": "PandaMoo",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1491,16 +1216,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 352545711,
                 "name": "DarkMago\u2665",
-                "leagues": [
-                    14388,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1518,17 +1238,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 408729743,
                 "name": "Sacred",
-                "leagues": [
-                    14417,
-                    14388,
-                    14389,
-                    14299
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1546,7 +1260,7 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             }
         ]
     },
@@ -1556,10 +1270,6 @@
             {
                 "account_id": 91730177,
                 "name": "Seleri",
-                "leagues": [
-                    14279,
-                    14389
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1577,15 +1287,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 116934015,
                 "name": "dyrachyo",
-                "leagues": [
-                    14279,
-                    14389
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1603,15 +1309,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 190826739,
                 "name": "BOOM",
-                "leagues": [
-                    14279,
-                    14389
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1629,15 +1331,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 97590558,
                 "name": "Ace",
-                "leagues": [
-                    14279,
-                    14389
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1655,15 +1353,11 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
             },
             {
                 "account_id": 16497807,
                 "name": "tOfu",
-                "leagues": [
-                    14279,
-                    14389
-                ],
                 "cards": {
                     "0": {
                         "fantasy_points": 0,
@@ -1681,7 +1375,697 @@
                         "stuns": 0
                     }
                 },
-                "role": "UNKNOWN"
+                "role": ""
+            }
+        ]
+    },
+    "7390454": {
+        "name": "Soniqs",
+        "players": [
+            {
+                "account_id": 108452107,
+                "name": "Yawar",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 221666230,
+                "name": "Quinn",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 86726887,
+                "name": "MSS",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 87063175,
+                "name": "LESL\u00c3O",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 86799300,
+                "name": "Fata",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            }
+        ]
+    },
+    "8131728": {
+        "name": "Hokori",
+        "players": [
+            {
+                "account_id": 125995177,
+                "name": "Gard1ck",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 138177198,
+                "name": "Vitaly",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 131303632,
+                "name": "4nalog <01",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 191290281,
+                "name": "Lumi\u00e8re",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 105045291,
+                "name": "Thiolicor",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            }
+        ]
+    },
+    "8597976": {
+        "name": "Talon",
+        "players": [
+            {
+                "account_id": 87012746,
+                "name": "kpii",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 301750126,
+                "name": "Mikoto",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 143278997,
+                "name": "Hyde-",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 375507918,
+                "name": "23savage",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 193815691,
+                "name": "Q",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            }
+        ]
+    },
+    "6209804": {
+        "name": "Royal Never Give Up",
+        "players": [
+            {
+                "account_id": 106863163,
+                "name": "Somnus",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 94738847,
+                "name": "Chalice",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 94296097,
+                "name": "xNova",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 139876032,
+                "name": "kaka",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 206642367,
+                "name": "Ghost",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            }
+        ]
+    },
+    "8605863": {
+        "name": "Entity",
+        "players": [
+            {
+                "account_id": 140288368,
+                "name": "Tobi",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 196878136,
+                "name": "Kataomi`",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 96803083,
+                "name": "Stormstormer",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 127565532,
+                "name": "Fishman",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 331855530,
+                "name": "Pure",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            }
+        ]
+    },
+    "8721219": {
+        "name": "BetBoom Team",
+        "players": [
+            {
+                "account_id": 106305042,
+                "name": "Larl",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 177411785,
+                "name": "Daxak",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 117421467,
+                "name": "SoNNeikO",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 195108598,
+                "name": "Noticed",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
+            },
+            {
+                "account_id": 159020918,
+                "name": "RodjER",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": ""
             }
         ]
     }

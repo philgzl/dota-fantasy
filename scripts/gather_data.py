@@ -11,8 +11,8 @@ def request(url, params=None):
     while r.status_code != 200:
         logging.debug('Rate limit exceeded, waiting 10 seconds')
         time.sleep(10)
-        r = requests.get(url)
-    time.sleep(1)
+        r = requests.get(url, params=params)
+    time.sleep(2)
     return r.json()
 
 
@@ -24,7 +24,14 @@ def save(data, path):
         json.dump(data, f, indent=4)
 
 
-def get_ratings():
+def load(path):
+    with open(path) as f:
+        data = json.load(f)
+    return data
+
+
+def get_ratings(args):
+    teams = load('teams.json')
     output = {}
     for team_id, team in teams.items():
         url = f'https://api.opendota.com/api/teams/{team_id}'
@@ -33,15 +40,16 @@ def get_ratings():
     save(output, 'ratings.json')
 
 
-def get_fantasy_series():
+def get_fantasy_series(args):
+    teams = load('teams.json')
+    leagues = [ĺeague['id'] for ĺeague in load('leagues.json')]
     for team_id, team in teams.items():
         for player in team['players']:
-            get_player_fantasy_series(player)
+            get_player_fantasy_series(player, leagues)
 
 
-def get_player_fantasy_series(player_data):
+def get_player_fantasy_series(player_data, leagues):
     player_id = player_data['account_id']
-    leagues = player_data['leagues']
     sql = " ".join([
         "SELECT",
         ",".join([
@@ -85,12 +93,53 @@ def get_player_fantasy_series(player_data):
     save(data, f'series/{player_id}.json')
 
 
+def get_team_data(args):
+    for team_id in args.team_id:
+        url = f'https://api.opendota.com/api/teams/{team_id}'
+        data = request(url)
+        team_data = {}
+        team_data['name'] = data['name']
+        url = f'https://api.opendota.com/api/teams/{team_id}/players'
+        data = request(url)
+        players = []
+        print(f'found {len(data)} players in team {team_data["name"]}')
+        for player_data in data:
+            r = input(f'add player {player_data["name"]} to database? y/n')
+            if r != 'y':
+                continue
+            filtered_data = {
+                "account_id": player_data["account_id"],
+                "name": player_data["name"],
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": input('role? Core/Mid/Support'),
+            }
+            players.append(filtered_data)
+        team_data['players'] = players
+        with open('teams.json', 'r') as f:
+            data = json.load(f)
+        data[team_id] = team_data
+        with open('teams.json', 'w') as f:
+            json.dump(data, f, indent=4)
+
+
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
-
-    # load teams
-    with open('teams.json') as f:
-        teams = json.load(f)
 
     # top-level parser
     parser = argparse.ArgumentParser()
@@ -101,9 +150,14 @@ if __name__ == '__main__':
     parser_ratings.set_defaults(func=get_ratings)
 
     # parser for "fantasy" command
-    parser_ratings = subparsers.add_parser('fantasy')
-    parser_ratings.set_defaults(func=get_fantasy_series)
+    parser_fantasy = subparsers.add_parser('fantasy')
+    parser_fantasy.set_defaults(func=get_fantasy_series)
+
+    # parser for "team" command
+    parser_team = subparsers.add_parser('team')
+    parser_team.add_argument('team_id', type=int, help='team id', nargs='+')
+    parser_team.set_defaults(func=get_team_data)
 
     # parse arguments
     args = parser.parse_args()
-    args.func()
+    args.func(args)

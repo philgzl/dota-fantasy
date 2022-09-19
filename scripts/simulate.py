@@ -176,7 +176,7 @@ def print_results(team_objs):
                 })
     print(
         f"{'NAME':<13s}",
-        f"{'TEAM':<18s}",
+        f"{'TEAM':<22}",
         f"{'ROLE':<8s}",
         f"{'CARD ID':<8s}",
         f"{'MEAN':<7s}",
@@ -188,7 +188,7 @@ def print_results(team_objs):
     )
     print(
         f"{'-'*12:<13s}",
-        f"{'-'*17:<18s}",
+        f"{'-'*21:<22}",
         f"{'-'*7:<8s}",
         f"{'-'*7:<8s}",
         f"{'-'*6:<7s}",
@@ -201,7 +201,7 @@ def print_results(team_objs):
     for result in sorted(results, key=lambda v: v['mean'], reverse=True):
         print(
             f"{result['name']:<13s}",
-            f"{result['team']:<18s}",
+            f"{result['team']:<22}",
             f"{result['role']:<8s}",
             f"{result['card_id']:<8s}",
             f"{result['mean']:<7.2f}",
