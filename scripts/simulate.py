@@ -164,26 +164,27 @@ def win_prob(team_a_rating, team_b_rating):
     return q_a/(q_a+q_b)
 
 
-def print_results(team_objs):
+def print_results(team_objs, role):
     results = []
     for team_id, team in team_objs.items():
         for player in team.players:
             for card in player.cards:
-                results.append({
-                    'name': player.name,
-                    'team': team.name,
-                    'role': player.role,
-                    'card_id': card.id,
-                    'mean': np.mean(card.scores),
-                    'std': np.std(card.scores),
-                    'ci5': np.percentile(card.scores, 5),
-                    'ci95': np.percentile(card.scores, 95),
-                    'min': np.min(card.scores),
-                    'max': np.max(card.scores),
-                    'series': card._series_played,
-                    'games': card._games_played,
-                    'counted': card._games_counted,
-                })
+                if player.role == role:
+                    results.append({
+                        'name': player.name,
+                        'team': team.name,
+                        'role': player.role,
+                        'card_id': card.id,
+                        'mean': np.mean(card.scores),
+                        'std': np.std(card.scores),
+                        'ci5': np.percentile(card.scores, 5),
+                        'ci95': np.percentile(card.scores, 95),
+                        'min': np.min(card.scores),
+                        'max': np.max(card.scores),
+                        # 'series': card._series_played,
+                        # 'games': card._games_played,
+                        # 'counted': card._games_counted,
+                    })
     print(
         f"{'NAME':<13s}",
         f"{'TEAM':<22}",
@@ -195,9 +196,9 @@ def print_results(team_objs):
         f"{'95% CI':<7s}",
         f"{'MIN':<7s}",
         f"{'MAX':<7s}",
-        f"{'SERIES':<7s}",
-        f"{'GAMES':<6s}",
-        f"{'COUNTED':<8s}",
+        # f"{'SERIES':<7s}",
+        # f"{'GAMES':<6s}",
+        # f"{'COUNTED':<8s}",
     )
     print(
         f"{'-'*12:<13s}",
@@ -210,9 +211,9 @@ def print_results(team_objs):
         f"{'-'*6:<7s}",
         f"{'-'*6:<7s}",
         f"{'-'*6:<7s}",
-        f"{'-'*6:<7s}",
-        f"{'-'*6:<6s}",
-        f"{'-'*6:<8s}",
+        # f"{'-'*6:<7s}",
+        # f"{'-'*6:<6s}",
+        # f"{'-'*6:<8s}",
     )
     for result in sorted(results, key=lambda v: v['mean'], reverse=True):
         print(
@@ -226,10 +227,11 @@ def print_results(team_objs):
             f"{result['ci95']:<7.2f}",
             f"{result['min']:<7.2f}",
             f"{result['max']:<7.2f}",
-            f"{result['series']:<7d}",
-            f"{result['games']:<6d}",
-            f"{result['counted']:<8d}",
+            # f"{result['series']:<7d}",
+            # f"{result['games']:<6d}",
+            # f"{result['counted']:<8d}",
         )
+    print('')
 
 
 def main(args):
@@ -257,7 +259,9 @@ def main(args):
             team.flush_day()
 
     # print results
-    print_results(team_objs)
+    print_results(team_objs, 'Mid')
+    print_results(team_objs, 'Core')
+    print_results(team_objs, 'Support')
 
 
 if __name__ == '__main__':
