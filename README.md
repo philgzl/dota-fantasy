@@ -1,9 +1,9 @@
 # dota-fantasy
 Fantasy predictions using Monte Carlo simulations for The International 2022, factoring in ELO ratings and card bonuses. 
 
-# Method
+## Method
 
-## Data
+### Data
 Fantasy data from the following leagues was collected from [Opendota](https://www.opendota.com/):
 ```
 PGL Arlington Major 2022
@@ -25,25 +25,25 @@ The International 2022 Last Chance Qualifiers
 ```
 All leagues were equally weighted. An argument could be made in favor of using the fewer most recent leagues. However I believe the model requires a sufficient amount of data to perform well.
 
-## Model
+### Model
 For each player, each fantasy statistic (`fantasy_points`, `kills`, `deaths`, `last_hits`, `gold_per_min`, `towers_killed`, `roshans_killed`, `teamfight_participation`, `observers_placed`, `camps_stacked`, `rune_pickups`, `firstblood_claimed`, `stuns`) was modeled as a Gaussian conditioned on the outcome of the game. The win and loss statistics (mean and standard deviation) were estimated using the data collected from the leagues listed above.
 
 A stationary model was preferred over a dynamic model like a time series process as the data is quite noisy and no particular trend can be observed. Attempts at fitting ARMA models to the individual series resulted in poor results.
 
-## Simulations
+### Simulations
 For each series, win and lose probabilities are calculated using ELO ratings as provided by [Opendota](https://www.opendota.com/teams). A biased coin flip is then used to determine the outcome of each game within a series.
 
 The fantasy scores are then obtained by simply sampling from the Gaussians based on the outcome of the game. The outcome for each fantasy statistic is scaled according to the card bonus specified in `teams.json`.
 
 For Bo3 and Bo5 series, only the top 2 and 3 games are counted respectively.
 
-# Results
+## Results
 
 Below are some results obtained from 10000 simulations. No card bonuses were applied. Only the top picks for each day are displayed. The complete results for all players are available in the `results` directory.
 
-## October 15
+### October 15
 
-### Mid
+#### Mid
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -55,7 +55,7 @@ m1CKe         Team Liquid            Mid      92.46   7.51    80.19   104.79  66
 ...
 ```
 
-### Core
+#### Core
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -72,7 +72,7 @@ Faith_bian    PSG.LGD                Core     81.42   7.11    69.61   93.06   57
 ...
 ```
 
-### Support
+#### Support
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -89,9 +89,9 @@ RodjER        BetBoom Team           Support  77.90   7.88    65.25   91.00   52
 ...
 ```
 
-## October 16
+### October 16
 
-### Mid
+#### Mid
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -103,7 +103,7 @@ C. smile  <   beastcoast             Mid      90.77   8.58    76.88   105.11  59
 ...
 ```
 
-### Core
+#### Core
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -120,7 +120,7 @@ CoLLapse      Team Spirit            Core     81.14   7.45    69.09   93.57   49
 ...
 ```
 
-### Support
+#### Support
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -137,9 +137,9 @@ DuBu          TSM FTX                Support  80.17   6.60    69.51   91.35   57
 ...
 ```
 
-## October 17
+### October 17
 
-### Mid
+#### Mid
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -151,7 +151,7 @@ m1CKe         Team Liquid            Mid      93.13   7.41    81.20   105.37  63
 ...
 ```
 
-### Core
+#### Core
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -168,7 +168,7 @@ Yawar         Soniqs                 Core     80.99   10.64   64.21   99.12   50
 ...
 ```
 
-### Support
+#### Support
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -185,9 +185,9 @@ kaka          Royal Never Give Up    Support  77.96   6.72    67.16   89.19   54
 ...
 ```
 
-## October 18
+### October 18
 
-### Mid
+#### Mid
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -199,7 +199,7 @@ Ori           Team Aster             Mid      59.30   7.22    47.67   71.45   34
 ...
 ```
 
-### Core
+#### Core
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
@@ -216,7 +216,7 @@ K1            beastcoast             Core     52.69   7.84    40.31   66.12   28
 ...
 ```
 
-### Support
+#### Support
 ```
 NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
 ------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
