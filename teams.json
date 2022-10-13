@@ -22,7 +22,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 111114687,
@@ -44,7 +44,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 157475523,
@@ -66,7 +66,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 118134220,
@@ -88,7 +88,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 173978074,
@@ -110,7 +110,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             }
         ]
     },
@@ -137,7 +137,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 113331514,
@@ -159,7 +159,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 431770905,
@@ -181,7 +181,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 321580662,
@@ -203,7 +203,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 256156323,
@@ -225,7 +225,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             }
         ]
     },
@@ -252,7 +252,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 207829314,
@@ -274,7 +274,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 148215639,
@@ -296,7 +296,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 183378746,
@@ -318,7 +318,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 107803494,
@@ -340,7 +340,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             }
         ]
     },
@@ -367,7 +367,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 183719386,
@@ -389,7 +389,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 401792574,
@@ -411,7 +411,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 167976729,
@@ -433,7 +433,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 90125566,
@@ -455,7 +455,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             }
         ]
     },
@@ -482,7 +482,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 292921272,
@@ -504,7 +504,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 153836240,
@@ -526,7 +526,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 119631156,
@@ -548,7 +548,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 164685175,
@@ -570,7 +570,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             }
         ]
     },
@@ -597,7 +597,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 238239590,
@@ -619,7 +619,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 97658618,
@@ -641,7 +641,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 38628747,
@@ -663,7 +663,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 126212866,
@@ -685,7 +685,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             }
         ]
     },
@@ -712,7 +712,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 100471531,
@@ -734,7 +734,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 132309493,
@@ -756,7 +756,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 148526973,
@@ -778,7 +778,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 164532005,
@@ -800,7 +800,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             }
         ]
     },
@@ -827,7 +827,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 25907144,
@@ -849,7 +849,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 94155156,
@@ -871,7 +871,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 154715080,
@@ -893,7 +893,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 124801257,
@@ -915,7 +915,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             }
         ]
     },
@@ -942,7 +942,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 324277900,
@@ -964,7 +964,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 100594231,
@@ -986,7 +986,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 155494381,
@@ -1008,7 +1008,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 392565237,
@@ -1030,7 +1030,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             }
         ]
     },
@@ -1057,7 +1057,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 94786276,
@@ -1079,7 +1079,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 86698277,
@@ -1101,7 +1101,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 10366616,
@@ -1123,7 +1123,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 103735745,
@@ -1145,7 +1145,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             }
         ]
     },
@@ -1172,7 +1172,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 339235645,
@@ -1194,7 +1194,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 117089283,
@@ -1216,7 +1216,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 352545711,
@@ -1238,7 +1238,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 408729743,
@@ -1260,7 +1260,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             }
         ]
     },
@@ -1287,7 +1287,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 116934015,
@@ -1309,7 +1309,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 190826739,
@@ -1331,7 +1331,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 97590558,
@@ -1353,7 +1353,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 16497807,
@@ -1375,7 +1375,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             }
         ]
     },
@@ -1402,7 +1402,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 221666230,
@@ -1424,7 +1424,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 86726887,
@@ -1446,7 +1446,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 87063175,
@@ -1468,7 +1468,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 86799300,
@@ -1490,7 +1490,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             }
         ]
     },
@@ -1517,7 +1517,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 138177198,
@@ -1539,7 +1539,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 131303632,
@@ -1561,7 +1561,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 191290281,
@@ -1583,7 +1583,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 105045291,
@@ -1605,7 +1605,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             }
         ]
     },
@@ -1632,7 +1632,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 301750126,
@@ -1654,7 +1654,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 143278997,
@@ -1676,7 +1676,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 375507918,
@@ -1698,7 +1698,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 193815691,
@@ -1720,7 +1720,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             }
         ]
     },
@@ -1747,7 +1747,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 94738847,
@@ -1769,7 +1769,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 94296097,
@@ -1791,7 +1791,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 139876032,
@@ -1813,7 +1813,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 206642367,
@@ -1835,7 +1835,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             }
         ]
     },
@@ -1862,7 +1862,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 196878136,
@@ -1884,7 +1884,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 96803083,
@@ -1906,7 +1906,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 127565532,
@@ -1928,7 +1928,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 331855530,
@@ -1950,7 +1950,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             }
         ]
     },
@@ -1977,7 +1977,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Mid"
             },
             {
                 "account_id": 177411785,
@@ -1999,7 +1999,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 117421467,
@@ -2021,7 +2021,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
             },
             {
                 "account_id": 195108598,
@@ -2043,7 +2043,7 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Core"
             },
             {
                 "account_id": 159020918,
@@ -2065,7 +2065,237 @@
                         "stuns": 0
                     }
                 },
-                "role": ""
+                "role": "Support"
+            }
+        ]
+    },
+    "2163": {
+        "name": "Team Liquid",
+        "players": [
+            {
+                "account_id": 72312627,
+                "name": "MATUMBAMAN",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Core"
+            },
+            {
+                "account_id": 54580962,
+                "name": "iNsania",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Support"
+            },
+            {
+                "account_id": 152962063,
+                "name": "m1CKe",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Mid"
+            },
+            {
+                "account_id": 77490514,
+                "name": "Boxi",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Support"
+            },
+            {
+                "account_id": 73562326,
+                "name": "zai",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Core"
+            }
+        ]
+    },
+    "1838315": {
+        "name": "Team Secret",
+        "players": [
+            {
+                "account_id": 87278757,
+                "name": "Puppey",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Support"
+            },
+            {
+                "account_id": 121769650,
+                "name": "Nisha",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Mid"
+            },
+            {
+                "account_id": 127617979,
+                "name": "Crystallis",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Core"
+            },
+            {
+                "account_id": 111030315,
+                "name": "W_Zayac",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Support"
+            },
+            {
+                "account_id": 86725175,
+                "name": "Resolut1on",
+                "cards": {
+                    "0": {
+                        "fantasy_points": 0,
+                        "kills": 0,
+                        "deaths": 0,
+                        "last_hits": 0,
+                        "gold_per_min": 0,
+                        "towers_killed": 0,
+                        "roshans_killed": 0,
+                        "teamfight_participation": 0,
+                        "observers_placed": 0,
+                        "camps_stacked": 0,
+                        "rune_pickups": 0,
+                        "firstblood_claimed": 0,
+                        "stuns": 0
+                    }
+                },
+                "role": "Core"
             }
         ]
     }

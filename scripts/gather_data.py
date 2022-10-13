@@ -43,6 +43,8 @@ def get_ratings(args):
 def get_fantasy_series(args):
     teams = load('teams.json')
     leagues = [ĺeague['id'] for ĺeague in load('leagues.json')]
+    if args.team_id is not None:
+        teams = {team_id: teams[team_id] for team_id in args.team_id}
     for team_id, team in teams.items():
         for player in team['players']:
             get_player_fantasy_series(player, leagues)
@@ -152,6 +154,7 @@ if __name__ == '__main__':
     # parser for "fantasy" command
     parser_fantasy = subparsers.add_parser('fantasy')
     parser_fantasy.set_defaults(func=get_fantasy_series)
+    parser_fantasy.add_argument('--team-id', help='team id', nargs='+')
 
     # parser for "team" command
     parser_team = subparsers.add_parser('team')

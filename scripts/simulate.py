@@ -13,6 +13,9 @@ class Card:
         self.scores = []
         self._day_scores = []
         self._series_scores = []
+        self._games_played = 0
+        self._games_counted = 0
+        self._series_played = 0
 
     def roll(self, win):
         total = 0
@@ -44,7 +47,11 @@ class Card:
         self._series_scores.append(total)
 
     def flush_series(self, best):
-        self._day_scores.append(sum(sorted(self._series_scores)[-best:]))
+        counting_games = sorted(self._series_scores)[-best:]
+        self._games_played += len(self._series_scores)
+        self._games_counted += len(counting_games)
+        self._series_played += 1
+        self._day_scores.append(sum(counting_games))
         self._series_scores = []
 
     def flush_day(self):
@@ -173,6 +180,9 @@ def print_results(team_objs):
                     'ci95': np.percentile(card.scores, 95),
                     'min': np.min(card.scores),
                     'max': np.max(card.scores),
+                    'series': card._series_played,
+                    'games': card._games_played,
+                    'counted': card._games_counted,
                 })
     print(
         f"{'NAME':<13s}",
@@ -185,6 +195,9 @@ def print_results(team_objs):
         f"{'95% CI':<7s}",
         f"{'MIN':<7s}",
         f"{'MAX':<7s}",
+        f"{'SERIES':<7s}",
+        f"{'GAMES':<6s}",
+        f"{'COUNTED':<8s}",
     )
     print(
         f"{'-'*12:<13s}",
@@ -197,6 +210,9 @@ def print_results(team_objs):
         f"{'-'*6:<7s}",
         f"{'-'*6:<7s}",
         f"{'-'*6:<7s}",
+        f"{'-'*6:<7s}",
+        f"{'-'*6:<6s}",
+        f"{'-'*6:<8s}",
     )
     for result in sorted(results, key=lambda v: v['mean'], reverse=True):
         print(
@@ -210,6 +226,9 @@ def print_results(team_objs):
             f"{result['ci95']:<7.2f}",
             f"{result['min']:<7.2f}",
             f"{result['max']:<7.2f}",
+            f"{result['series']:<7d}",
+            f"{result['games']:<6d}",
+            f"{result['counted']:<8d}",
         )
 
 
