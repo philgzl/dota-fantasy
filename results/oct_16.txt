@@ -1,108 +1,109 @@
-NAME          TEAM                   ROLE     CARD ID  MEAN    STD     5% CI   95% CI  MIN     MAX    
-------------  ---------------------  -------  -------  ------  ------  ------  ------  ------  ------ 
-Stormstormer  Entity                 Mid      0        106.59  8.49    92.80   120.54  72.13   139.90 
-Nisha         Team Secret            Mid      0        105.04  10.00   88.65   121.63  66.73   143.74 
-TORONTOTOKYO  Team Spirit            Mid      0        94.53   7.68    81.77   107.14  64.77   122.70 
-Ori           Team Aster             Mid      0        91.42   8.85    77.17   106.25  57.96   125.56 
-C. smile  <   beastcoast             Mid      0        90.77   8.58    76.88   105.11  59.79   124.63 
-DarkMago♥     Thunder Awaken         Mid      0        90.08   7.49    78.19   102.98  68.17   121.48 
-Mikoto        Talon                  Mid      0        89.44   9.37    74.17   105.09  59.05   127.91 
-Armel         Fnatic                 Mid      0        80.73   8.76    66.98   95.73   54.18   116.18 
-Bryle         TSM FTX                Mid      0        80.63   7.71    68.59   93.97   54.81   112.57 
-Nine          Tundra Esports         Mid      0        76.73   7.64    64.59   89.55   52.51   108.23 
-Somnus        Royal Never Give Up    Mid      0        70.93   6.62    60.04   81.74   44.63   93.66  
-Yopaj-        BOOM Esports           Mid      0        69.74   6.90    58.38   80.92   45.99   92.35  
-bzm           OG                     Mid      0        65.70   7.06    54.34   77.39   41.13   91.05  
-Larl          BetBoom Team           Mid      0        63.19   8.12    49.69   76.58   36.68   93.18  
-Abed          Evil Geniuses          Mid      0        61.25   5.99    51.79   71.47   42.60   87.54  
-m1CKe         Team Liquid            Mid      0        60.49   6.03    50.82   70.62   41.84   86.24  
-BOOM          Gaimin Gladiators      Mid      0        59.54   5.13    51.30   68.17   41.87   78.71  
-Quinn         Soniqs                 Mid      0        59.10   7.67    47.60   72.63   38.50   91.34  
-NothingToSay  PSG.LGD                Mid      0        58.52   5.42    49.45   67.24   39.02   79.30  
-4nalog <01    Hokori                 Mid      0        57.57   6.69    46.98   68.81   35.65   86.80  
+NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
+------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
+Nisha         Team Secret            Mid      39.88   4.34    32.95   47.31   24.50   56.11  
+Stormstormer  Entity                 Mid      39.86   3.73    33.97   46.22   27.25   53.53  
+Somnus        Royal Never Give Up    Mid      38.16   3.78    32.02   44.43   24.76   52.87  
+Yopaj-        BOOM Esports           Mid      37.82   4.13    31.22   44.72   24.03   55.12  
+bzm           OG                     Mid      35.89   4.33    28.92   43.19   22.06   54.85  
+TORONTOTOKYO  Team Spirit            Mid      35.26   3.26    29.96   40.68   23.59   48.88  
+Larl          BetBoom Team           Mid      35.02   4.75    27.43   42.73   17.04   54.20  
+Ori           Team Aster             Mid      34.94   3.88    28.55   41.35   21.51   50.36  
+Mikoto        Talon                  Mid      34.81   4.40    27.74   42.24   20.75   52.30  
+C. smile  <   beastcoast             Mid      34.65   3.88    28.52   41.24   21.63   52.58  
+DarkMago♥     Thunder Awaken         Mid      33.93   3.62    28.29   40.27   22.80   49.17  
+Abed          Evil Geniuses          Mid      33.07   3.72    27.37   39.52   21.75   48.47  
+m1CKe         Team Liquid            Mid      32.86   3.75    26.97   39.25   19.16   49.51  
+Quinn         Soniqs                 Mid      32.74   5.21    25.07   42.09   19.90   56.91  
+BOOM          Gaimin Gladiators      Mid      31.76   3.08    26.91   37.07   20.79   44.23  
+4nalog <01    Hokori                 Mid      31.46   4.18    25.00   38.72   20.04   49.53  
+Armel         Fnatic                 Mid      31.42   4.35    24.52   39.04   19.87   47.42  
+NothingToSay  PSG.LGD                Mid      31.41   3.13    26.34   36.65   20.30   48.59  
+Bryle         TSM FTX                Mid      30.92   3.86    24.92   37.66   20.17   46.66  
+Nine          Tundra Esports         Mid      29.42   3.47    23.85   35.35   18.46   46.24  
 
-NAME          TEAM                   ROLE     CARD ID  MEAN    STD     5% CI   95% CI  MIN     MAX    
-------------  ---------------------  -------  -------  ------  ------  ------  ------  ------  ------ 
-Pure          Entity                 Core     0        97.90   12.04   78.08   117.79  50.76   136.74 
-YATOROGOD     Team Spirit            Core     0        95.98   9.60    80.29   111.78  64.49   130.64 
-Monet         Team Aster             Core     0        93.92   9.51    78.64   109.90  62.53   128.88 
-Crystallis    Team Secret            Core     0        90.22   10.18   73.62   107.26  57.64   134.58 
-Pakazs        Thunder Awaken         Core     0        87.00   9.26    72.12   102.67  57.66   125.03 
-23savage      Talon                  Core     0        84.82   11.80   66.31   104.82  47.16   128.63 
-Raven         Fnatic                 Core     0        84.54   10.35   68.26   102.52  54.52   135.61 
-K1            beastcoast             Core     0        82.94   9.56    67.20   98.63   52.33   117.66 
-Resolut1on    Team Secret            Core     0        82.64   9.22    67.65   98.30   48.74   120.35 
-CoLLapse      Team Spirit            Core     0        81.14   7.45    69.09   93.57   49.84   111.02 
-33            Tundra Esports         Core     0        80.49   9.46    65.74   96.79   52.81   124.46 
-Wisper        beastcoast             Core     0        77.01   7.39    65.01   89.51   48.42   110.15 
-Timado        TSM FTX                Core     0        76.56   8.01    64.05   90.32   50.40   110.47 
-Tobi          Entity                 Core     0        72.69   8.15    59.55   86.42   45.37   104.52 
-skiter        Tundra Esports         Core     0        72.62   8.71    58.82   87.59   45.83   107.44 
-Xxs           Team Aster             Core     0        70.27   7.39    58.42   82.52   43.65   98.44  
-J             Fnatic                 Core     0        69.47   7.02    58.21   81.30   42.55   99.63  
-SabeRLighT-   TSM FTX                Core     0        66.11   7.50    54.12   78.86   44.47   96.60  
-Ghost         Royal Never Give Up    Core     0        61.99   8.13    48.74   75.59   35.76   87.45  
-Daxak         BetBoom Team           Core     0        61.95   7.06    50.24   73.48   35.55   87.84  
-MATUMBAMAN    Team Liquid            Core     0        61.91   6.48    51.19   72.68   36.94   83.65  
-JACKBOYS      BOOM Esports           Core     0        61.86   7.61    49.36   74.60   36.27   88.56  
-kpii          Talon                  Core     0        61.26   7.88    48.84   74.76   37.10   91.89  
-Arteezy       Evil Geniuses          Core     0        61.06   7.07    49.54   73.05   38.43   89.56  
-Ame           PSG.LGD                Core     0        60.65   8.09    47.28   74.06   30.60   88.83  
-Sacred        Thunder Awaken         Core     0        60.15   6.06    50.55   70.14   38.15   84.14  
-Yuragi        OG                     Core     0        59.42   8.49    45.81   73.91   30.82   90.85  
-Lumière       Hokori                 Core     0        59.31   9.52    44.31   75.67   33.55   93.83  
-dyrachyo      Gaimin Gladiators      Core     0        58.77   7.85    46.80   72.51   35.63   96.89  
-Chalice       Royal Never Give Up    Core     0        52.48   6.44    42.29   63.39   28.73   79.06  
-Nightfall     Evil Geniuses          Core     0        52.37   6.62    41.85   63.64   30.99   78.19  
-Noticed       BetBoom Team           Core     0        51.79   5.56    42.80   60.99   32.45   73.24  
-Faith_bian    PSG.LGD                Core     0        51.60   6.17    41.47   61.92   29.47   73.34  
-Yawar         Soniqs                 Core     0        49.43   7.96    37.68   63.41   27.21   82.87  
-zai           Team Liquid            Core     0        49.31   5.29    40.87   58.21   31.21   71.85  
-Ace           Gaimin Gladiators      Core     0        48.43   5.72    39.39   58.31   29.46   70.20  
-AMMAR_THE_F   OG                     Core     0        48.38   6.43    37.92   59.21   23.44   70.69  
-LESLÃO        Soniqs                 Core     0        45.93   5.66    37.14   55.91   28.03   72.59  
-Vitaly        Hokori                 Core     0        44.52   6.07    35.07   54.89   26.58   70.75  
-Fbz           BOOM Esports           Core     0        43.73   5.12    35.56   52.39   26.24   63.30  
+NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
+------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
+Pure          Entity                 Core     38.74   4.83    30.36   46.32   19.13   57.78  
+YATOROGOD     Team Spirit            Core     36.72   3.99    30.18   43.36   20.63   53.54  
+Monet         Team Aster             Core     36.13   4.21    29.41   43.23   22.86   55.92  
+Crystallis    Team Secret            Core     35.15   4.46    27.89   42.49   19.79   52.84  
+23savage      Talon                  Core     34.75   5.74    25.60   44.32   18.93   59.39  
+Ghost         Royal Never Give Up    Core     34.33   4.65    26.69   42.03   19.10   51.65  
+JACKBOYS      BOOM Esports           Core     34.16   4.66    26.58   41.83   19.39   53.62  
+Daxak         BetBoom Team           Core     33.90   4.18    27.22   40.86   19.44   51.36  
+Pakazs        Thunder Awaken         Core     33.83   4.53    26.83   41.75   20.18   53.64  
+Ame           PSG.LGD                Core     33.70   4.67    26.00   41.39   17.09   49.96  
+MATUMBAMAN    Team Liquid            Core     33.65   3.88    27.43   40.22   19.60   49.44  
+Yuragi        OG                     Core     33.51   5.27    24.84   42.24   15.26   53.43  
+Arteezy       Evil Geniuses          Core     33.49   4.37    26.59   41.00   19.35   54.43  
+Raven         Fnatic                 Core     33.45   5.01    25.57   42.24   19.36   52.22  
+Lumière       Hokori                 Core     33.44   6.13    23.44   44.10   16.67   56.43  
+K1            beastcoast             Core     32.66   4.24    25.69   39.67   19.36   48.26  
+dyrachyo      Gaimin Gladiators      Core     32.41   5.09    24.78   41.36   18.62   53.05  
+Resolut1on    Team Secret            Core     32.13   4.14    25.50   39.08   19.54   49.27  
+33            Tundra Esports         Core     31.58   4.53    24.58   39.49   18.81   53.13  
+CoLLapse      Team Spirit            Core     30.73   3.30    25.49   36.29   19.29   46.47  
+Timado        TSM FTX                Core     29.61   4.03    23.42   36.78   17.13   46.09  
+Wisper        beastcoast             Core     29.42   3.42    24.11   35.30   18.18   43.26  
+Nightfall     Evil Geniuses          Core     28.93   4.08    22.52   35.85   17.48   43.84  
+Chalice       Royal Never Give Up    Core     28.84   3.87    22.66   35.45   16.34   44.46  
+skiter        Tundra Esports         Core     28.68   4.15    21.97   35.76   15.67   45.59  
+Tobi          Entity                 Core     28.35   3.57    22.61   34.27   15.85   42.27  
+Faith_bian    PSG.LGD                Core     28.35   3.60    22.57   34.37   15.97   43.74  
+Noticed       BetBoom Team           Core     28.17   3.35    22.75   33.74   16.24   40.54  
+Yawar         Soniqs                 Core     28.10   5.43    20.08   37.90   15.48   52.72  
+Xxs           Team Aster             Core     27.16   3.34    21.88   32.81   16.67   40.19  
+AMMAR_THE_F   OG                     Core     27.05   3.96    20.65   33.76   13.93   41.43  
+zai           Team Liquid            Core     26.79   3.26    21.63   32.41   15.93   42.82  
+J             Fnatic                 Core     26.70   3.35    21.57   32.44   16.29   42.88  
+Ace           Gaimin Gladiators      Core     26.53   3.56    21.05   32.72   15.96   42.76  
+SabeRLighT-   TSM FTX                Core     25.90   3.73    20.24   32.54   16.43   42.48  
+LESLÃO        Soniqs                 Core     25.27   3.66    19.84   31.73   16.03   41.42  
+Vitaly        Hokori                 Core     24.67   3.91    18.70   31.52   12.78   43.31  
+kpii          Talon                  Core     24.56   3.82    18.72   31.28   13.78   39.57  
+Fbz           BOOM Esports           Core     23.96   3.14    19.02   29.36   13.78   36.19  
+Sacred        Thunder Awaken         Core     23.11   2.82    18.76   28.03   14.24   34.81  
 
-NAME          TEAM                   ROLE     CARD ID  MEAN    STD     5% CI   95% CI  MIN     MAX    
-------------  ---------------------  -------  -------  ------  ------  ------  ------  ------  ------ 
-W_Zayac       Team Secret            Support  0        98.99   8.24    85.48   112.71  71.76   130.60 
-Fishman       Entity                 Support  0        89.80   8.53    75.97   104.07  53.09   125.77 
-Hyde-         Talon                  Support  0        87.69   9.89    71.54   104.13  47.21   133.16 
-Jaunuel       Fnatic                 Support  0        86.52   8.52    72.64   100.88  52.07   125.96 
-Miposhka      Team Spirit            Support  0        85.19   8.13    71.90   98.60   56.02   115.69 
-DJ            Fnatic                 Support  0        84.19   6.89    73.15   95.72   61.78   112.20 
-Siamese.C     Team Aster             Support  0        83.39   6.72    72.60   94.62   57.99   107.62 
-Matthew       Thunder Awaken         Support  0        82.55   6.93    71.41   93.90   57.10   109.32 
-Saksa         Tundra Esports         Support  0        80.63   6.05    70.83   90.70   58.95   106.27 
-DuBu          TSM FTX                Support  0        80.17   6.60    69.51   91.35   57.95   104.52 
-Gōjira        beastcoast             Support  0        79.42   7.21    67.29   91.16   52.67   105.85 
-Kataomi`      Entity                 Support  0        79.28   7.41    67.23   91.42   54.57   107.83 
-Mira          Team Spirit            Support  0        78.38   7.04    66.84   90.17   51.86   107.76 
-BoBoKa        Team Aster             Support  0        78.04   7.20    66.04   89.78   48.39   103.92 
-XstiNgerX     beastcoast             Support  0        74.32   8.67    60.45   88.98   41.76   107.74 
-Puppey        Team Secret            Support  0        74.17   6.51    63.65   84.97   50.62   99.05  
-PandaMoo      Thunder Awaken         Support  0        73.47   6.74    62.51   84.68   47.82   100.07 
-Sneyking      Tundra Esports         Support  0        72.43   5.57    63.16   81.64   49.56   96.08  
-Q             Talon                  Support  0        68.83   7.54    56.79   81.65   43.13   97.92  
-MoonMeander   TSM FTX                Support  0        65.30   6.29    55.34   75.82   42.34   93.70  
-Fata          Soniqs                 Support  0        64.29   6.50    54.19   75.53   42.95   95.94  
-skem          BOOM Esports           Support  0        61.68   6.37    51.20   72.36   39.26   86.68  
-iNsania       Team Liquid            Support  0        60.10   6.00    50.27   70.13   37.53   81.58  
-SoNNeikO      BetBoom Team           Support  0        58.11   6.48    47.44   68.79   34.44   81.48  
-TIMS          BOOM Esports           Support  0        56.41   6.11    46.49   66.62   35.99   81.19  
-Taiga         OG                     Support  0        56.02   7.19    44.38   68.14   31.43   84.01  
-y`            PSG.LGD                Support  0        55.09   6.21    44.68   64.98   31.54   77.70  
-Gard1ck       Hokori                 Support  0        54.06   6.18    44.20   64.55   30.86   76.09  
-kaka          Royal Never Give Up    Support  0        53.21   5.27    44.57   61.88   28.86   73.82  
-Boxi          Team Liquid            Support  0        52.57   5.42    43.75   61.66   31.92   72.67  
-RodjER        BetBoom Team           Support  0        52.46   6.36    42.40   63.14   29.01   77.52  
-Seleri        Gaimin Gladiators      Support  0        51.94   4.90    43.98   60.08   33.21   74.60  
-xNova         Royal Never Give Up    Support  0        51.73   4.59    44.22   59.35   33.73   69.21  
-XinQ          PSG.LGD                Support  0        51.28   4.70    43.59   58.99   32.89   69.38  
-Cr1t-         Evil Geniuses          Support  0        48.70   4.52    41.29   56.12   31.17   67.10  
-Thiolicor     Hokori                 Support  0        47.68   5.16    39.51   56.54   30.88   69.99  
-tOfu          Gaimin Gladiators      Support  0        47.21   5.42    38.38   56.10   25.00   71.05  
-Fly           Evil Geniuses          Support  0        46.10   5.59    36.99   55.44   26.41   67.23  
-MSS           Soniqs                 Support  0        44.19   4.88    36.32   52.47   27.85   64.72  
-Misha         OG                     Support  0        43.11   5.80    34.03   53.10   25.05   66.29  
+NAME          TEAM                   ROLE     MEAN    STD     5% CI   95% CI  MIN     MAX    
+------------  ---------------------  -------  ------  ------  ------  ------  ------  ------ 
+W_Zayac       Team Secret            Support  37.06   3.64    31.38   43.30   25.52   51.69  
+Fata          Soniqs                 Support  34.78   4.07    28.72   41.98   22.37   54.69  
+Hyde-         Talon                  Support  34.38   4.44    27.43   42.01   19.95   51.99  
+Fishman       Entity                 Support  34.23   3.78    28.27   40.70   20.97   51.31  
+skem          BOOM Esports           Support  33.33   3.80    27.47   39.99   20.01   50.40  
+Jaunuel       Fnatic                 Support  33.04   3.83    27.09   39.64   20.08   49.54  
+iNsania       Team Liquid            Support  32.45   3.45    26.89   38.28   20.97   47.86  
+Miposhka      Team Spirit            Support  32.30   3.57    26.71   38.43   20.42   48.97  
+SoNNeikO      BetBoom Team           Support  31.71   3.74    25.60   37.97   18.78   46.60  
+DJ            Fnatic                 Support  31.48   3.22    26.60   37.21   21.14   44.19  
+Siamese.C     Team Aster             Support  31.08   2.94    26.55   36.18   21.26   43.34  
+Taiga         OG                     Support  31.04   4.49    24.08   38.83   17.22   50.70  
+Matthew       Thunder Awaken         Support  30.93   3.08    26.14   36.23   20.98   47.14  
+TIMS          BOOM Esports           Support  30.70   3.65    24.91   36.81   18.61   46.81  
+Kataomi`      Entity                 Support  30.18   3.29    25.04   35.68   19.46   43.20  
+y`            PSG.LGD                Support  30.03   3.49    24.35   35.88   16.80   44.81  
+Gōjira        beastcoast             Support  30.03   3.12    25.09   35.37   18.22   44.21  
+DuBu          TSM FTX                Support  30.00   2.99    25.41   35.19   20.33   44.61  
+Saksa         Tundra Esports         Support  29.84   2.69    25.70   34.43   20.93   44.59  
+BoBoKa        Team Aster             Support  29.63   3.11    24.58   34.90   18.05   41.86  
+Mira          Team Spirit            Support  29.63   3.11    24.70   34.88   19.69   41.36  
+Gard1ck       Hokori                 Support  29.47   3.71    23.70   35.83   17.74   45.95  
+XstiNgerX     beastcoast             Support  29.18   4.07    22.81   36.13   16.23   45.98  
+RodjER        BetBoom Team           Support  28.98   3.92    22.79   35.73   16.44   45.25  
+kaka          Royal Never Give Up    Support  28.67   3.07    23.68   33.77   17.09   41.99  
+Boxi          Team Liquid            Support  28.50   3.33    23.23   34.06   17.51   41.40  
+Puppey        Team Secret            Support  27.94   2.94    23.39   33.01   17.90   43.98  
+PandaMoo      Thunder Awaken         Support  27.89   3.10    23.05   33.13   18.30   42.25  
+Seleri        Gaimin Gladiators      Support  27.88   2.96    23.25   32.99   17.24   39.90  
+xNova         Royal Never Give Up    Support  27.62   2.64    23.35   32.07   17.24   38.62  
+XinQ          PSG.LGD                Support  27.53   2.75    23.16   32.16   18.24   39.16  
+Sneyking      Tundra Esports         Support  26.88   2.36    23.13   30.88   18.95   36.36  
+Q             Talon                  Support  26.87   3.70    21.18   33.42   16.27   41.06  
+Cr1t-         Evil Geniuses          Support  26.14   2.61    21.91   30.58   15.50   39.37  
+Thiolicor     Hokori                 Support  25.95   3.20    21.00   31.45   16.03   40.18  
+tOfu          Gaimin Gladiators      Support  25.79   3.17    20.68   31.05   13.89   38.58  
+Fly           Evil Geniuses          Support  25.30   3.30    20.00   30.88   13.71   37.83  
+MoonMeander   TSM FTX                Support  24.99   3.07    20.33   30.49   15.80   37.50  
+MSS           Soniqs                 Support  24.03   2.92    19.47   29.07   14.33   37.86  
+Misha         OG                     Support  24.00   3.52    18.52   30.16   12.69   39.02  
+

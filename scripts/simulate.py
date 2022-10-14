@@ -42,7 +42,8 @@ class Card:
             roll = np.random.normal(mean, std)
             if key != "deaths":  # only death score can be negative
                 roll = max(roll, 0)
-            roll *= 1 + (self.bonuses[key]/100)  # apply card bonus
+            if not args.no_bonus:
+                roll *= 1 + (self.bonuses[key]/100)  # apply card bonus
             total += roll
         self._series_scores.append(total)
 
@@ -55,7 +56,7 @@ class Card:
         self._series_scores = []
 
     def flush_day(self):
-        self.scores.append(sum(self._day_scores))
+        self.scores.append(max(self._day_scores))
         self._day_scores = []
 
 
@@ -215,7 +216,7 @@ def print_results(team_objs, role):
         # f"{'-'*6:<6s}",
         # f"{'-'*6:<8s}",
     )
-    for result in sorted(results, key=lambda v: v['mean'], reverse=True):
+    for i, result in enumerate(sorted(results, key=lambda v: v['mean'], reverse=True)):
         print(
             f"{result['name']:<13s}",
             f"{result['team']:<22}",
@@ -231,6 +232,8 @@ def print_results(team_objs, role):
             # f"{result['games']:<6d}",
             # f"{result['counted']:<8d}",
         )
+        if args.top and ((role == 'Mid' and i == 4) or (i == 9)):
+            break
     print('')
 
 
@@ -246,7 +249,7 @@ def main(args):
 
     # main loop
     for i in range(args.n):
-        if i % 10 == 0:
+        if args.verbose and i % 10 == 0:
             print(f'{i}/{args.n}')
         # simulate series
         for game in games:
@@ -284,5 +287,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('day_number')
     parser.add_argument('-n', type=int, default=1000)
+    parser.add_argument('--no-bonus', action='store_true')
+    parser.add_argument('--verbose', action='store_true')
+    parser.add_argument('--top', action='store_true')
     args = parser.parse_args()
     main(args)
